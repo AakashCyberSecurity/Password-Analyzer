@@ -7,7 +7,7 @@ A Python-based utility that analyzes password strength, detects weaknesses, and 
 - Strength score out of 5
 - Checks for length, uppercase, lowercase, numbers, and special characters
 - Identifies common passwords
-- Command-line and optional GUI (Tkinter)
+- Command-line
 
 ## 🛠️ How to Run
 
